@@ -29,7 +29,7 @@ All plots are saved as images in visualizations\
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]
+The main findings of the code can be found at the post available [here](https://medium.com/@thesincereghost/a76cf1aefe0e)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
